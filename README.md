@@ -16,11 +16,11 @@ This project models a power network as a **Weighted Undirected Graph**. It helps
 * **Data Structures:** Graphs (Adjacency List using HashMaps), Priority Queues (Min-Heap), Queues, Stacks.
 * **Algorithms:** Dijkstra's Algorithm, Breadth-First Search (BFS).
 
-## How to Run
+## 💻 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/smart-power-grid.git](https://github.com/your-username/smart-power-grid.git)
-    cd smart-power-grid
+    git clone [https://github.com/abhinav15st05/Smart-Power-Grid-Simulator.git](https://github.com/abhinav15st05/Smart-Power-Grid-Simulator.git)
+    cd Smart-Power-Grid-Simulator
     ```
 2.  **Compile the code:**
     ```bash
